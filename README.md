@@ -31,7 +31,7 @@ Tujuan dari proyek ini adalah untuk melatih dasar-dasar HTML, seperti:
 ```bash
 odin-recipes/
 ├── index.html
-├── recipes/
+└── recipes/
     ├── pisang.html
     ├── roti.html
     └── terong.html
